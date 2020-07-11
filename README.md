@@ -7,7 +7,12 @@ help eradicate use of papers, pens, and manage digital learning thus
 providing it with an edge over its competitors
 
 ## Snapshot of the project
-![](header.png)
+
+![](ss1.PNG)
+
+![](ss2.PNG)
+
+![](ss3.PNG)
 
 ## Hosted Website 
 
